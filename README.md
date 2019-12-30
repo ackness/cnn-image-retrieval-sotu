@@ -9,7 +9,7 @@
 
 直接用 VGG-16 提取特征，计算相似度，没做任何优化，适合作为自己的 Baseline，然后加上自己的改进。
 
-![](_image/2019-12-30-17-24-45.png)
+![](_image/2019-12-30-17-36-30.png)
 
 ## 用法
 
@@ -20,6 +20,14 @@
 3. flask == 1.1.1
 
 后面默认你已经装好了环境。
+
+## 下载
+
+```sh
+$ git clone https://github.com/ackness/cnn-image-retrieval-sotu.git
+
+$ cd cnn-image-retrieval-sotu
+```
 
 ### 目录
 
@@ -48,7 +56,7 @@
 
 ### 提取特征
 
-```
+```sh
 $ python index.py -database <path-to-dataset> -index <name-for-output-index>
 ```
 生成的是 h5 格式的文件，把它放到 model 中。
