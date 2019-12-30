@@ -1,0 +1,7 @@
+app/static/uploads/
+data/
+venv/
+.vscode/
+__pycache__/
+model/
+images/
