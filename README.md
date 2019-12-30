@@ -7,7 +7,7 @@
 主要基于这几个轮子整合一下：
 [SoTu](https://github.com/willard-yuan/SoTu), [flask-keras-cnn-image-retrieval](https://github.com/willard-yuan/flask-keras-cnn-image-retrieval), [ImageRetrieval](https://github.com/wadasworths/ImageRetrieval)
 
-直接用 VGG-16 提取特征，计算相似度，没做任何优化。
+直接用 VGG-16 提取特征，计算相似度，没做任何优化，适合作为自己的 Baseline，然后加上自己的改进。
 
 ![](_image/2019-12-30-17-24-45.png)
 
