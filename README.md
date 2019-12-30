@@ -1,4 +1,4 @@
-# CNN Image retrieval SoTu
+# CNN Image Retrieval SoTu
 
 ## 介绍
 
@@ -64,6 +64,14 @@ $ export FLASK_ENV=development
 
 ```sh
 $ flask run -h 0.0.00 -p 8080
+```
+
+
+## 模型
+
+```
+链接: https://pan.baidu.com/s/1tzCuoOj9_KNmRcYNNpbb9A 
+提取码: 4nub
 ```
 
 ## 引用

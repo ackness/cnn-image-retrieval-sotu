@@ -3,5 +3,5 @@ data/
 venv/
 .vscode/
 __pycache__/
-model/
-images/
+model/*.h5
+images/*.jpg
