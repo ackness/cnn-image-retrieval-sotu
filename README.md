@@ -63,7 +63,7 @@ $ export FLASK_ENV=development
 ### 运行
 
 ```sh
-$ flask run -h 0.0.00 -p 8080
+$ flask run -h 0.0.0.0 -p 8080
 ```
 
 
