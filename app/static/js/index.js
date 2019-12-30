@@ -75,8 +75,8 @@ function validate_img(file) {
         alert("只接受图片格式的文件");
         return false;
     }
-    else if (file.size >= 3 * 1024 * 1024) {
-        alert("请上传小于3M的图片");
+    else if (file.size >= 10 * 1024 * 1024) {
+        alert("请上传小于10M的图片");
         return false;
     }
     return true;
