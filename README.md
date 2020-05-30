@@ -2,8 +2,6 @@
 
 ## 介绍
 
-深圳大学计软的多媒体大作业。
-
 主要基于这几个轮子整合一下：
 [SoTu](https://github.com/willard-yuan/SoTu), [flask-keras-cnn-image-retrieval](https://github.com/willard-yuan/flask-keras-cnn-image-retrieval), [ImageRetrieval](https://github.com/wadasworths/ImageRetrieval)
 
